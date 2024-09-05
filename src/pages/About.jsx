@@ -1,6 +1,6 @@
 import '../styles/App.css'
 
-function App() {
+function About() {
 
   return (
     <>
@@ -9,4 +9,4 @@ function App() {
   )
 }
 
-export default App
+export default About
